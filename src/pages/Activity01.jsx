@@ -143,13 +143,13 @@ const Activity01 = () => {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="page-title-heading mg-bt-12">
-                                <h1 className="heading text-center">Activity 1</h1>
+                                <h1 className="heading text-center">Activity</h1>
                             </div>
                             <div className="breadcrumbs style2">
                                 <ul>
                                     <li><Link to="/">Home</Link></li>
                                     <li><Link to="#">Activity</Link></li>
-                                    <li>Activity 1</li>
+                                    <li>Activity</li>
                                 </ul>
                             </div>
                         </div>
