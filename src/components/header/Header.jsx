@@ -110,7 +110,7 @@ const Header = () => {
                                             {user?(
                                                 <span>{user.get("username")}</span>
                                             ):(
-                                                <span>Connect Wallet</span>
+                                                <span></span>
                                             )}
                                             </Link>
                                     </div>
