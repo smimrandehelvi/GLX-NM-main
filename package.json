@@ -1,5 +1,6 @@
 {
-  "name": "axies-reactjs",
+  "name": "galaxy-reactjs",
+  "homepage": "https://market.livenft.net/",
   "version": "1.0.1",
   "private": true,
   "dependencies": {
